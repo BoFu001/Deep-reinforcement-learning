@@ -11,9 +11,32 @@
 
 Implementation and evaluation of Reinforcement Learning algorithms including Q-Learning, Deep Q-Network (DQN), and Proximal Policy Optimization (PPO).
 
-**Course:** INM707 Deep Reinforcement Learning  
+**Course:** INM707 Deep Reinforcement Learning
+
 **Institution:** City St George's, University of London
-**Author:** Bo Fu  
+
+**Author:** Bo Fu
+
+---
+
+## Environment Visualizations
+
+### Maze Environment (Basic Part)
+<p align="center">
+  <img src="image/maze_visualization.svg" width="500">
+</p>
+<p align="center">
+  <em>6x6 maze environment with start, goal, trap and obstacles</em>
+</p>
+
+### CartPole-v1 (Advanced Part)
+<p align="center">
+  <img src="image/cartpole_visualization.svg" width="500">
+</p>
+<p align="center">
+  <em>CartPole-v1 environment with 4 continuous state values and 2 discrete actions</em>
+</p>
+
 
 ---
 
